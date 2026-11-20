@@ -1,0 +1,17 @@
+# Godot editor cache and local builds
+.godot/
+build/
+exports/
+*.apk
+*.aab
+
+# Android signing material and machine-local settings
+*.jks
+*.keystore
+local.properties
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
