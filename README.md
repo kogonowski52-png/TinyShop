@@ -38,7 +38,7 @@ godot --path . --resolution 720x1600
 godot --path . --resolution 1080x1920
 ```
 
-Na obu ekranach sprawdź tytuł i główne przyciski menu, wszystkie półki, siedem miejsc tacki oraz całą zawartość okna sklepu. Na planszy ułóż komplet, wypełnij tackę różnymi produktami i ukończ rundę. Porównaj położenie przycisków oraz działanie dotyku na urządzeniu z różnymi proporcjami ekranu.
+W obu rozdzielczościach sprawdzono cały przebieg myszą. Test objął otwieranie oferty, rozpakowanie próbki, limit siedmiu miejsc, cofnięcie, reset, zebranie wszystkich 12 kompletów, nagrodę 120 monet i powrót do menu. Obejrzano układ i czytelność trzech ekranów w pełnych wymiarach okna.
 
 ### Android
 
